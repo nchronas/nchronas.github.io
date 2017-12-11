@@ -1,37 +1,15 @@
-## Welcome to GitHub Pages
+## Welcome to my projects
 
-You can use the [editor on GitHub](https://github.com/nchronas/nchronas.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find a list of the projects I had worked in the past.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### LowRISC's minion RISC-V triple core lock step configuration
 
-### Markdown
+[Here](https://nchronas.github.io/GSoC-2017/) is the documentation for my GSoC 2017 project.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### My master thesis regarding the UPSat software and testing
 
-```markdown
-Syntax highlighted code block
+[Here](https://nchronas.github.io/upsat_msc_thesis/) is my master thesis regarding UPSat, the first open source cubesat.
+Please keep in mind that the formating might have some issues, due to the automatic conversetion to markdown from the document. If you want my thesis in PDF just ping me on my email.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nchronas/nchronas.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-nd/4.0/80x15.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-nd/4.0/">Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License</a>.
